@@ -1,3 +1,3 @@
 # stepik_auto_tests_course
  это домашние задания к курсу
- jopen. 
+ https://stepik.org/course/575/syllabus?auth=login
